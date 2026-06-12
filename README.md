@@ -1,4 +1,4 @@
-# 🌿 Chamado Sustentável — Agrinho 2026
+# 🌿 Chamado Sustentavel — Agrinho 2026
  Visão Geral do Projeto:
 "Chamado Sustentável" é um jogo educativo 2D desenvolvido em p5.js que aborda o tema do Agrinho 2026: "Agro forte, futuro sustentável",
 O jogo foi criado com uma estética de pixel art, utilizando exclusivamente formas geométricas básicas (rect(), line(), ellipse(), text()) para construir todos os elementos visuais, sem o uso de imagens externas ou geradas por IA.
