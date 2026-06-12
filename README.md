@@ -1,14 +1,14 @@
 # 🌿 Chamado Sustentável — Agrinho 2026
-*** Visão Geral do Projeto:
+ Visão Geral do Projeto:
 "Chamado Sustentável" é um jogo educativo 2D desenvolvido em p5.js que aborda o tema do Agrinho 2026: "Agro forte, futuro sustentável",
 O jogo foi criado com uma estética de pixel art, utilizando exclusivamente formas geométricas básicas (rect(), line(), ellipse(), text()) para construir todos os elementos visuais, sem o uso de imagens externas ou geradas por IA.
 O objetivo principal é engajar o jogador em uma narrativa interativa que destaca a importância das práticas sustentáveis no agronegócio, mostrando como o cuidado com os recursos naturais impacta diretamente a produção e o bem-estar da comunidade.
-
+---
 ### Como Jogar
 Inicie o jogo: Na tela inicial, o celular tocará. Clique em "ATENDER" para iniciar a jornada ou "IGNORAR" para ver as consequências de não agir.
 Siga os tutoriais: Cada fase é precedida por um tutorial detalhado que explica os objetivos e controles específicos.
 Interaja: Utilize o mouse e o teclado (setas e teclas E/ESPAÇO) para realizar as ações em cada fase.
-
+---
 ### Estrutura do Jogo
 O jogo é dividido em uma sequência de telas e fases, controladas por uma variável de estado (gameState):
 
@@ -27,7 +27,7 @@ fase3_floresta: Foco na preservação da floresta e fauna. O jogador realiza mis
 fase4campocidade: Foco na conexão campo-cidade e consumo consciente. O jogador deve entregar alimentos do campo para a cidade, evitando o desperdício.
 
 final: Tela de encerramento com uma mensagem de celebração e os créditos do projeto.
-
+---
 ### Características Principais
 
 Pixel Art Puro: Todos os gráficos são desenhados programaticamente usando funções básicas do p5.js, reforçando o estilo retrô e a criatividade na construção visual.
@@ -41,14 +41,14 @@ Sons Interativos: Utiliza a Web Audio API para adicionar efeitos sonoros que enr
 Tutoriais Detalhados: Antes de cada fase, tutoriais explicam de forma clara o contexto, os objetivos e os controles, tornando o jogo acessível a todos.
 
 Feedback Visual e Sonoro: Barras de progresso, mensagens na tela e efeitos sonoros fornecem feedback constante ao jogador sobre seu desempenho.
-
+---
 ### Tecnologias Utilizadas
 p5.js: Biblioteca JavaScript para programação criativa, utilizada para o desenvolvimento gráfico e interativo.
 
 JavaScript (ES6+): Linguagem de programação principal.
 
 Web Audio API: Para a geração e controle de todos os efeitos sonoros do jogo.
-
+---
 ### Controles
 Fase / Tela	Ação	Controle
 Geral	Interagir com botões	CLIQUE do mouse
